@@ -1,2 +1,4 @@
 # bgclicker
-simple auto clicker in vb.net
+Simple Auto Clicker Made in VB.NET
+
+Please Remember: This tool is made for "FUN" Do not Abuse! Download: http://mineramen.com/dlbc.html
