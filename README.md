@@ -1,4 +1,5 @@
-# bgclicker
-Simple Auto Clicker Made in VB.NET
+# bgclicker ( how to make mouse click )
+How to make mouse click??
 
-Please Remember: This tool is made for "FUN" Do not Abuse! Download: http://mineramen.com/dlbc.html
+Please Remember: This tool is made for "FUN" Do not Abuse!  
+Download: unavailable
